@@ -1,0 +1,35 @@
+_repo: The-Invaders_23535
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Napoli, Vincent
+    alias: Napoli, James Vincent
+    birthdate: 1907
+    deathdate: 1981
+    gutenberg_agent_id: '35340'
+    url: http://www.gutenberg.org/2009/agents/35340
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Ferris, Benjamin
+    gutenberg_agent_id: '25900'
+    url: http://www.gutenberg.org/2009/agents/25900
+description: ''
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2007-11-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '23535'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Horror tales'
+- !lcsh 'Science fiction'
+- !lcsh 'Short stories'
+- !lcc 'PS'
+title: The Invaders
+url: http://www.gutenberg.org/ebooks/23535
